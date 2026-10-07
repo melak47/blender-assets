@@ -1,0 +1,13 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:fa5123b88242994c790490a8046dd9a6ccfee32d4bbb5295d0e2d6fbcb3e15e7"
+    }
+  },
+  "name": "melak47's asset library",
+  "contact": {
+    "name": "melak47",
+    "url": "https://melak47.github.io/blender-assets"
+  }
+}

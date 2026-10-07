@@ -1,0 +1,45 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Default Cube",
+      "id_type": "OBJECT",
+      "files": [
+        "assets/default_cube.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets/default_cube_thumbnails/Object/default-cube.webp",
+        "hash": "SHA256:97f6816424fceb97528b22a3c7fdfdc8aa7c688b7c3d8d1e3c320ea442d34aac"
+      },
+      "meta": {
+        "catalog_id": "7f4d5f0d-5cbb-4908-b449-4d5d8b3b1b67",
+        "author": "melak47",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              2.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/default_cube.blend",
+      "size_in_bytes": 103318,
+      "hash": "SHA256:003460ba734dcf072099993992c3ee12e6a9fc758467667b544f641be4edf13c",
+      "blender_version": "5.2.45"
+    }
+  ]
+}

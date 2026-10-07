@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 103318,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:b7c8b4e9df5345777c48e8674365bca88aa779c67394631f548ba3c1bd63ec70"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "melak47",
+      "uuids": [
+        "7f4d5f0d-5cbb-4908-b449-4d5d8b3b1b67"
+      ],
+      "simple_name": "melak47"
+    }
+  ]
+}
